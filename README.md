@@ -6,4 +6,4 @@ A visualization of project on GitHub
 
 
 
-[![Viktors wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikreinok)](https://github.com/anuraghazra/github-readme-stats)
+[![Viktors wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikreinok)](https://github.com/vikreinok/readme-stats)
